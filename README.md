@@ -1,6 +1,8 @@
 # embed-pdf-viewer-localization
 EmbedPDF Snippet  汉化组件  直接引用即可汉化
 
+![汉化效果示例](./screenshot.png)
+
 ```js
 //TranslatePDF.ts   主文件
 //entry.ts   词条表
